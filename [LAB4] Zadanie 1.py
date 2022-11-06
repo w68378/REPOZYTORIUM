@@ -1,0 +1,1 @@
+lista_zakupów=["masło", "chleb", "bansn", "pasztet"]
