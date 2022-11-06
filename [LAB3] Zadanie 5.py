@@ -1,5 +1,4 @@
-x =int( input("Wpisz liczbę całkowitą:" ))
-
+x =int( input("Wpisz liczbę całkowitą: " ))
 for j in range(x):
     for i in range(x):
         print("*",end=' ')
